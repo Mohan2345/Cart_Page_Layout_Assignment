@@ -1,5 +1,5 @@
-Pricing Layout Project
-Overview
+##Pricing Layout Project
+
 This project creates a responsive pricing layout with three pricing boxes, where users can select a pricing option by clicking a box. The selected box expands to show additional options (size and color selection), similar to the design provided in the reference image. The layout is built using vanilla HTML, CSS, and JavaScript, ensuring compatibility across devices.
 Features
 
@@ -9,20 +9,20 @@ Responsive Design: Adapts to different screen sizes, ensuring usability on mobil
 Interactive: Only one box can be expanded at a time, with radio buttons indicating the selected option.
 Visual Feedback: The selected box has a highlighted border, and the second box features a "Most Popular" badge.
 
-File Structure
+##File Structure
 
 index.html: The main HTML file containing the structure of the pricing layout.
 styles.css: The CSS file with styling for the layout, including responsive design.
 script.js: The JavaScript file that handles the click-to-expand functionality.
 
-Setup Instructions
+##Setup Instructions
 
 Clone or Download: Download the project files (index.html, styles.css, script.js) to your local machine.
 Place Files in a Directory: Ensure all three files are in the same directory.
 Open the Project:
 Open index.html in a web browser (e.g., Chrome, Firefox).
 
-Usage
+##Usage
 
 View the Layout: Open index.html in a browser to see the pricing layout.
 Interact with Pricing Boxes:
